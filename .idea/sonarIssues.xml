@@ -3,7 +3,62 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/artifacts/DynamicTemplate/service/impl/DynamicTemplateServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/artifacts/template/controller/TemplateController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/artifacts/template/entity/TemplateVariation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/artifacts/template/entity/TemplatesMaster.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/artifacts/template/response/TemplatesResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/common/constants/NotificationAttributes.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/common/util/DateConversionUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/controller/UploadCsvController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/core/TemplateManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/dto/UploadCsvDto.java">
           <value>
             <set />
           </value>
@@ -13,7 +68,47 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/notification/communication/processor/RawDataProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/AllLogUpdaterService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/OperationTrackerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/SMSServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/SmsAndMailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/UploadCsvServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/sms/BulkSmsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/service/sms/BulkSmsUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/java/com/spicejet/irop/util/IropUtil.java">
           <value>
             <set />
           </value>
@@ -58,12 +153,52 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/cancellation_rollback_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/change_aircraft_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/change_aircraft_no_rs_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/del_terminal_change_bizz_reason_city.vm">
           <value>
             <set />
           </value>
         </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/del_terminal_change_spice_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/delay_rollback_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/departure_sector_time_date_change.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/departure_sector_time_date_change_without_connectingCity.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/departure_sector_time_date_change_without_connectingCity_reasonCity.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/departure_sector_time_date_change_without_reasonCity.vm">
           <value>
             <set />
           </value>
@@ -103,6 +238,26 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/ignore.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/jammu_early_reporting.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/mumbai_terminal_shifting.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/mumbai_terminal_shifting_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/preponedBizzreasonCity.vm">
           <value>
             <set />
@@ -128,12 +283,47 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/sector_change_bizz_no_reason_city.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/sector_change_departure_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/sector_change_no_rs_bizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/sector_change_spicebizz.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/ssc_flight_terminal_change.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/t2MergeFlightreasonCity.vm">
           <value>
             <set />
           </value>
         </entry>
         <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/t2mergeflight.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/t2mergeflightvar3.vm">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Vivek/spicejet/IROP/NotificationPanelBackend/src/main/resources/templates/t2mergeflightvar4.vm">
           <value>
             <set />
           </value>
@@ -173,12 +363,132 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/WebApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/entity/Address.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/entity/Customer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/entity/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/repo/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/repo/RoleRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/repo/customerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/request/RegistrationRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/resource/CustomerResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/CustomerDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/CustomerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/SecurityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/customerDetailService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/imp/CustomerDetailServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/imp/CustomerServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/customers/service/imp/SecurityServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/entity/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/entity/Customer.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/entity/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/run/WebApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/security/SecurityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/security/service/SecurityService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/validator/CustomerValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/validation.properties">
           <value>
             <set />
           </value>
